@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Aayush</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi my name is Aayush.
+    \n\nI am a student studying in SRM KTR.
+    \n\n\n\n\n\n\n\n I am a CSE student and have an interest in Android Development.
+    \n\nI am currently making a profile page
+    \n\n on Android Studio</string>
+</resources>
